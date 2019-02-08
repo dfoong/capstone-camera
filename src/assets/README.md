@@ -1,0 +1,1 @@
+Place static assets in this directory.
